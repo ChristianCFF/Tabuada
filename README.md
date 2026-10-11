@@ -33,3 +33,28 @@ Se você digitar o número `5`, o programa imprimirá 10 linhas no seguinte form
 5 * 3 = 15
 ...
 5 * 10 = 50
+```
+
+## 5. Estrutura do Projeto
+
+Os arquivos essenciais do projeto estão organizados da seguinte forma:
+  * main.c: O código-fonte do programa responsável por ler a entrada e imprimir as 10 linhas da tabuada.
+  * instructions.txt: Documento de apoio original que explica a configuração do compilador e a execução.
+  * README.md: Este arquivo com as instruções de apresentação.
+  * LICENSE: Arquivo contendo os termos de uso do projeto.
+  * assets/: Pasta que guarda os arquivos de mídia.
+  * assets/demo.png: Captura de tela demonstrando o uso real do programa no terminal.
+
+## 6. Licença
+
+Este projeto adota a licença MIT. Consulte o arquivo LICENSE no repositório para ler os termos completos de distribuição e cópia.
+
+
+### Passo 3: Enviar as alterações para o GitHub
+Como você fez mudanças nos arquivos locais (moveu a foto e editou o README), abra o terminal no VS Code e rode os 3 comandos abaixo para enviar as correções:
+
+```bash
+git add .
+git commit -m "Corrige estrutura do projeto, licenca e caminho da imagem"
+git push
+```
