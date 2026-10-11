@@ -5,7 +5,7 @@ Este projeto é um programa simples e direto escrito em linguagem C que gera a t
 
 ## 2. Demonstração
 Abaixo está uma demonstração do programa em execução:
-![Demonstração da Execução](assets/demo.png)
+![Demonstração da Execução](demo.png)
 
 *(Observação: O programa não exibe nenhuma mensagem antes de esperar você digitar o número no terminal).*
 
