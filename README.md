@@ -47,8 +47,7 @@ Os arquivos essenciais do projeto estão organizados da seguinte forma:
 
 ## 6. Licença
 
-Este projeto adota a licença MIT. Consulte o arquivo LICENSE no repositório para ler os termos completos de distribuição e cópia.
-
+Este projeto adota a licença [MIT](LICENSE). Consulte o arquivo `LICENSE` no repositório para ler os termos completos de distribuição e cópia.
 
 ### Passo 3: Enviar as alterações para o GitHub
 Como você fez mudanças nos arquivos locais (moveu a foto e editou o README), abra o terminal no VS Code e rode os 3 comandos abaixo para enviar as correções:
